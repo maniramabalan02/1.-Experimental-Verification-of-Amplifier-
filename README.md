@@ -51,7 +51,7 @@ PIN DIAGRAM
 <img width="624" height="269" alt="image" src="https://github.com/user-attachments/assets/635c9837-d5f5-4d6f-acc9-8a47a4368230" />
 
 CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
-![WhatsApp Image 2025-11-23 at 13 29 30_9754eec8](https://github.com/user-attachments/assets/9de54c41-4231-439f-a5e8-1ea68a1f52df)
+![WhatsApp Image 2025-12-03 at 10 17 09 AM](https://github.com/user-attachments/assets/ad2da85a-973a-4f96-8e5d-c23f3f68197f)
 
 
 MODEL GRAPH 
@@ -83,14 +83,14 @@ Inverting amplifier:
 
 ## TABULATION
 
-![WhatsApp Image 2025-11-23 at 13 29 52_ec5c5872](https://github.com/user-attachments/assets/0e158cf0-c6b1-44b3-b588-b88d31850cbb)
+<img width="709" height="1280" alt="image" src="https://github.com/user-attachments/assets/4f0c1376-a92b-49ce-b0a1-c01d92942c5d" />
 		
  
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-11-23 at 13 39 40_cecf0d27](https://github.com/user-attachments/assets/46151db1-95fe-414d-a2d4-f5219ca1823b)
+<img width="925" height="1280" alt="image" src="https://github.com/user-attachments/assets/1a8b3f26-7ec7-497f-bdf3-2888c81d7319" />
 
 
 ---
@@ -108,7 +108,7 @@ ACL = 1 + RF/R1
 ## CIRCUIT DIAGRAM
 
 
-![WhatsApp Image 2025-11-23 at 13 43 57_837aac7d](https://github.com/user-attachments/assets/84538cfe-730b-477c-88bd-62003a04235e)
+<img width="638" height="1280" alt="image" src="https://github.com/user-attachments/assets/983e58a4-0f33-4431-b35c-7bbba79b318a" />
 
 
 ---
@@ -129,14 +129,13 @@ PROCEDURE:
 7. Plot the input vs. output waveform for one practical case.
 
 ## TABULATION
-![WhatsApp Image 2025-11-23 at 13 44 46_e725e1c1](https://github.com/user-attachments/assets/cd9fd8bd-6465-4af0-8a5a-617ab7e2e541)
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/416d5c60-370f-4a66-bb74-752b51b91400" />
 
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-11-23 at 13 48 45_b57b3d0a](https://github.com/user-attachments/assets/1e8e9c4d-de2d-4f55-9a50-36b645650eab)
+<img width="984" height="1280" alt="image" src="https://github.com/user-attachments/assets/b3bd996b-a4a0-449e-929f-1b215968d63e" />
 
-![WhatsApp Image 2025-11-23 at 13 50 20_fba135b4](https://github.com/user-attachments/assets/f11ea5eb-d022-4b41-8a24-1a37bd0e118b)
 
 ---
 ## DIFFERENTIAL AMPLIFIER
@@ -226,7 +225,7 @@ PROCEDURE:
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-11-23 at 14 06 55_d8d603c9](https://github.com/user-attachments/assets/2b02a2f6-70d0-473f-8f38-28a48fa7d2a7)
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/f6535a91-236c-4bc4-a583-15e58de172b4" />
 
 
 ---
