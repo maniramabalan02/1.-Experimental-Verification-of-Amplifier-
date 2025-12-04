@@ -61,6 +61,8 @@ MODEL GRAPH
 
 
 DESIGN:
+<img width="1280" height="575" alt="image" src="https://github.com/user-attachments/assets/8beb8919-2765-4401-89de-75f5add42de9" />
+
 
 Inverting amplifier:
 
@@ -156,6 +158,8 @@ A = Vo/{V2 - V1} = -Rf/R1
 ---
 
 ## DESIGN
+
+<img width="1280" height="573" alt="image" src="https://github.com/user-attachments/assets/6afca3f2-4ead-4593-a182-e8c7a26e347a" />
 
 
 ### **Differential Amplifier**
