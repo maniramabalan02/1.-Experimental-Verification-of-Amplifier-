@@ -224,7 +224,8 @@ PROCEDURE:
 ---
 
 ## TABULATION (Instrumentation Amplifier)
-![WhatsApp Image 2025-11-23 at 14 05 01_5f2cfaed](https://github.com/user-attachments/assets/2600d047-d064-4e63-b2f8-12ed9a5f33f7)
+
+<img width="602" height="1280" alt="image" src="https://github.com/user-attachments/assets/de80bdc8-fdcc-41ce-81ee-39b604005319" />
 
 
 ---
